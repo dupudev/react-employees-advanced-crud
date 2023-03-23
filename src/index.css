@@ -1,0 +1,4 @@
+/* removes dropdown menu arrow indicator from delete button */
+.dropdown-toggle::after {
+  display: none !important;
+}
