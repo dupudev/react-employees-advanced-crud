@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/main.d8c8f3b8.css","mappings":"AACA,uBACE,sBACF","sources":["index.css"],"sourcesContent":["/* removes dropdown menu arrow indicator from delete button */\r\n.dropdown-toggle::after {\r\n  display: none !important;\r\n}\r\n"],"names":[],"sourceRoot":""}
