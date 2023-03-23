@@ -25,7 +25,7 @@ Monthly statistics shown on dashboard:
 - Total number of tasks
 - Number of completed tasks
 - Number of uncompleted tasks
-- Top 5 employees with highest number of completed tasks \* List can have less than 5 employees because employees with 0 completed tasks are not ranked
+- Top 5 employees with highest number of completed tasks <br> &Tab;\* List can have less than 5 employees because employees with 0 completed tasks are not ranked
 
 Dashboard displays statistics for current and past month. Initially, data for the past month is not available until the end of current month.
 
